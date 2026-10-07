@@ -20,11 +20,14 @@
 
   <br/><br/>
 
-  <!-- Compact Spotify Widget -->
+  <!-- Spotify & Retro Pixel Anime GIF Showcase -->
   <h3>🎧 Now Playing</h3>
-  <a href="https://open.spotify.com/track/4Pz0Q838Nn8K57894a8n7y" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/music-player.svg" alt="love. - wave to earth" width="370" />
-  </a>
+  <p align="center">
+    <img src="./assets/anime-chill.gif" height="104" alt="Retro Pixel Anime Chill" style="border-radius: 12px; vertical-align: middle; margin-right: 6px;" />
+    <a href="https://open.spotify.com/track/4Pz0Q838Nn8K57894a8n7y" target="_blank" rel="noopener noreferrer">
+      <img src="./assets/music-player.svg" height="104" alt="love. - wave to earth" style="vertical-align: middle;" />
+    </a>
+  </p>
 
   <br/><br/>
 
